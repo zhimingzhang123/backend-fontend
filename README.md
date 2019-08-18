@@ -9,4 +9,4 @@
 
 ```
 
-![上传图片](../\backend-fontend\images\上传图片.png)
+![上传图片](images/上传图片.png)
